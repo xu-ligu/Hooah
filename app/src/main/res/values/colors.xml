@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color -->
+    <color name="colorPrimary">#00796b</color>
+    <color name="colorPrimaryDark">#004d40</color>
+    <color name="colorAccent">#F44336</color>
+
+    <!-- Base Color -->
+    <color name="base_color_gray">#888888</color>
+    <color name="base_color_white">#FFFFFF</color>
+    <color name="base_color_black">#000000</color>
+
+    <!-- Items -->
+    <color name="item_color_gray">#444444</color>
+    <color name="item_color_orange">#F97956</color>
+    <color name="qin">#C1CDC1</color>
+    <color name="coffee">#CD6839</color>
+    <array name="tab_colors">
+        <item name="tab_1">#888888</item>
+        <item name="tab_2">#888888</item>
+        <item name="tab_3">#888888</item>
+        <item name="tab_4">#888888</item>
+        <item name="tab_5">#888888</item>
+    </array>
+
+    <!-- Main Activity -->
+    <color name="top_bar_text_selected_color">#FFFFFF</color>
+    <color name="top_bar_text_unselected_color">#0F864A</color>
+
+    <color name="gray">#BEBEBE</color>
+    <color name="light_toolbar">@android:color/holo_blue_dark</color>
+    <color name="dark_toolbar">@android:color/black</color>
+    <color name="light_news_item">#FFF0F0F0</color>
+    <color name="dark_news_item">#DD000000</color>
+    <color name="light_news_topic">#ff666666</color>
+    <color name="dark_news_topic">#CCFFFFFF</color>
+    <color name="dark_selector_drawable">#FF333333</color>
+    <color name="light_menu_header">@android:color/holo_blue_dark</color>
+    <color name="dark_menu_header">@android:color/black</color>
+    <color name="light_menu_header_tv">@android:color/white</color>
+    <color name="dark_menu_header_tv">#CCFFFFFF</color>
+    <color name="light_menu_index_background">#FFF0F0F0</color>
+    <color name="dark_menu_index_background">#FF111111</color>
+    <color name="light_menu_listview_background">@android:color/white</color>
+    <color name="dark_menu_listview_background">#FF222222</color>
+    <color name="light_menu_listview_textcolor">#FF000000</color>
+    <color name="dark_menu_listview_textcolor">@android:color/darker_gray</color>
+    <color name="clicked_tv_textcolor">@android:color/darker_gray</color>
+</resources>

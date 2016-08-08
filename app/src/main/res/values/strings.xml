@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hooah</string>
+    <string name="default_text">这是一个弹幕的例子</string>
+    - <string-array name="default_text_array">
+    <item>颓废不是我的调调，积极才是我的王道</item>
+    <item>最让人感动的不是强者的保护，而是弱者的坚强</item>
+    <item>轻轻浅浅的笑，天马行空的心</item>
+    <item>I love you,</item>
+    <item>做好人，做好事；做明白人，做明白事！</item>
+    <item>认真你就赢了</item>
+    <item>我这么努力你都不赞我</item>
+    <item>等你一切都准备好了，或许你就没动力了</item>
+    <item>为什么毕业过了几年以后，同学之间的差距变的那么大？</item>
+    <item>本来差距就大，不过学校就那么点事，不显而已。</item>
+    <item>w1dyjtx!</item>
+    <item>加油加油加油！</item>
+    <item>这是一个弹幕的例子</item>
+    <item>祝你生日快乐~</item>
+</string-array>
+    - <string-array name="video_test">
+    <item>这是一个相差57岁年龄的对话,由此请回顾您的人生 http://img.wdjimg.com/image/video/efb2d3f26118e06bb88be3976cfb5831_0_0.jpeg http://uc-baobab.wdjcdn.com/1455777405247_5412_854x480.mp4</item>
+    <item>这是一只负责让人心情变好的动画片头 http://mmbiz.qpic.cn/mmbiz/HH8uRF2v4zxYQMSzHAibSbgn5bv74uv38sgPn2VqPHQVtJkSPwywRUjM6I2NIsxW7MRriaFbicZzNK8PJIvocMHlg/0?wx_fmt=gif http://baobab.wdjcdn.com/1451826889080C.mp4</item>
+    <item>在生活中有一类叫Kuroko的精灵他们无所不能 http://mmbiz.qpic.cn/mmbiz/HH8uRF2v4zxYQMSzHAibSbgn5bv74uv38VMyqZSWs1lWsffD2EK1arxrkoT63nGEuoBJ6icWGOF4jDd6yzzhZOYQ/0?wx_fmt=gif http://baobab.wdjcdn.com/143323298510702.mp4</item>
+    <item>这样天鹅只能用一个词形容：蠢萌. http://mmbiz.qpic.cn/mmbiz/HH8uRF2v4zxYQMSzHAibSbgn5bv74uv38H4gMRskuX8Bb9FlOoBg1u3hKgVP1wxfvVsIVawMyiclXicgovTofwDcQ/0?wx_fmt=gif http://baobab.wdjcdn.com/14399887845852_x264.mp4</item>
+    <item>在仙人掌的世界里小心翼翼生存的两只气球小狗遇见了彼此 http://mmbiz.qpic.cn/mmbiz/HH8uRF2v4zxYQMSzHAibSbgn5bv74uv38tFXSQbA1YIRdxcYwDYXf5gicJMAJnhjMq856F6HuhcmAKG97fmy7eaw/0?wx_fmt=gif http://baobab.wdjcdn.com/143625320119607.mp4</item>
+    <item>小仓鼠对于眼前美丽的背影一见钟情 http://mmbiz.qpic.cn/mmbiz/HH8uRF2v4zxYQMSzHAibSbgn5bv74uv38e5GE9oLyxBXB72b8ibyAhRpYFYA6iaTElCsxj0vu30qP6sNSrYAibyGQQ/0?wx_fmt=gif http://baobab.wdjcdn.com/145345719887961975219.mp4</item>
+    <item>魔术师只忙着训练兔子却不给它胡萝卜吃 http://mmbiz.qpic.cn/mmbiz/HH8uRF2v4zxYQMSzHAibSbgn5bv74uv38Vp5qvibicicIKnwEhmoveOib8ayicSjgTvOhRvJczQN0LnnWzCHrlPuyUew/0?wx_fmt=gif http://baobab.wdjcdn.com/1442142801331138639111.mp4</item>
+    <item>记忆是趟旅程，我们一起上了列车，却在不同时间下车 http://fj.pt80.net/data/attachment/forum/201402/22/170033ofs77fyyk4z5mr55.jpg http://baobab.wdjcdn.com/1456317490140jiyiyuetai_x264.mp4</item>
+    <item>由阿根廷的3darStudios制作的八分钟短片《恐怖谷》 https://the-offline.com/wp-content/uploads/2016/07/02565-1024x428.jpg http://baobab.wdjcdn.com/1449208790990uncannyvalley_x264.mp4</item>
+    <item>女司机如何性感飙车 http://img.mp.itc.cn/upload/20160522/55d72bd991e948ab9176b0819156c5a5_th.jpg http://baobab.wdjcdn.com/1463216572707_6938_854x480.mp4</item>
+</string-array>
+</resources>
